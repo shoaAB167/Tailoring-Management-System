@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Aug 14 15:06:32 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-017b-4405-1d61-00000198e508 
+on database directory D:\Tailoring Management\dist\Tailor with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/D:/Tailoring%20Management/dist/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.1+9
+user.dir=D:\Tailoring Management\dist
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
